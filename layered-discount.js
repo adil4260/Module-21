@@ -1,3 +1,4 @@
+//8
 function layeredDiscountedTotal(quantity) {
     const first100Price = 100;
     const second100Price = 90;
@@ -23,5 +24,5 @@ function layeredDiscountedTotal(quantity) {
         return total;
     }
 }
-const total = layeredDiscountedTotal(5);
+const total = layeredDiscountedTotal(150);
 console.log(total)

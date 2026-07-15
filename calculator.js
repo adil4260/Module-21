@@ -13,7 +13,7 @@ function multiply(num1, num2) {
 
 
 function calculator(a, b, operation) {
-    if (operation === 'add') {
+    if (operation === 'add') { 
         const result = add(a, b);
         return result;
     }

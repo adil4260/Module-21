@@ -1,3 +1,4 @@
+//9
 function woodQuantity(chair, table, bed) {
     const perChairWood = 3;
     const perTableWood = 10;

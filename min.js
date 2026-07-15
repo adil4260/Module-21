@@ -1,3 +1,4 @@
+//3
 const price = [20000, 16000, 50000, 100000, 12000]
 function getMin(numbers) {
     let min = numbers[0];
@@ -9,4 +10,4 @@ function getMin(numbers) {
     return min;
 }
 const cheap = getMin(price)
-console.log('cheapest value is', min);
+console.log('cheapest value is', cheap);

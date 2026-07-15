@@ -1,3 +1,4 @@
+//6
 const heights = [65, 66, 68, 71, 60, 66]
 
 function getMax(numbers) {
@@ -9,5 +10,5 @@ function getMax(numbers) {
     }
     return max;
 }
-const max = getMax(heights);
-console.log('max value is', max)
+const maxNnmber = getMax(heights);
+console.log('max value is', maxNnmber)

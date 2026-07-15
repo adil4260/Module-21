@@ -1,3 +1,4 @@
+//11
 const products = [
     { name: 'shampoo', price: 300, quantity: 2 },
     { name: 'chiruni', price: 100, quantity: 1 },

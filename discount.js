@@ -1,3 +1,4 @@
+//7
 function discountedPrice(quantity) {
     if (quantity <= 100) {
         const total = quantity * 100;
